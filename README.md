@@ -1,3 +1,3 @@
 # Netifier
 
-Indonesian Social Media Post Toxicity Classification
+Indonesian Social Media Text Toxicity Classification
