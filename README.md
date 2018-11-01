@@ -2,7 +2,7 @@
 
 Introduction
 ------------------
-<img src="assets/sample_toxic_post.jpg" />
+<img style="width: 300px;" src="assets/sample_toxic_post.jpg" />
 
 The rapid spread of information through internet have benefitted our lives in many different ways. But, it also introduces us to some problems, one of them being the spead of negative contents on the internet. The presence of 'toxic' post led to peopple struggle to have effective conversations.
 
